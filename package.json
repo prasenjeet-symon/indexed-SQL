@@ -1,7 +1,7 @@
 {
   "name": "indexed-sql",
   "version": "1.0.0",
-  "description": "Rollup starter project for client side",
+  "description": "SQL for browser",
   "main": "build/cjs/index.js",
   "module": "build/esm/index.js",
   "typings": "build/esm/index.d.ts",
@@ -16,18 +16,18 @@
   "author": "prasenjeet-symon",
   "license": "MIT",
   "keywords": [
-    "Blueprint",
-    "Rollup",
-    "Starter Project"
+    "SQL",
+    "Browser",
+    "IndexedDB"
   ],
   "bugs": {
-    "url": ""
+    "url": "https://github.com/prasenjeet-symon/indexed-sql/issues"
   },
   "deprecated": false,
   "homepage": "",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/prasenjeet-symon/indexed-sql"
   },
   "dependencies": {
     "bignumber.js": "^9.0.1",
