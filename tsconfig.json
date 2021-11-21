@@ -9,7 +9,7 @@
       "declaration": true,
       "declarationDir": "./build/esm/",
       "outDir": "./build/esm/",
-      "target": "es5",
+      "target": "es6",
       "declarationMap": true,
       "downlevelIteration": true,
       "experimentalDecorators": true,
